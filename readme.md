@@ -9,5 +9,5 @@ rm -rf /
 ## pattern B
 
 ```bash
-rm rf ~
+rm -rf ~
 ```
